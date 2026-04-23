@@ -1,0 +1,5 @@
+api\tests\regression\PostRegressionTest.class
+test\java\api\service\PostService.class
+test\java\api\base\BaseTest.class
+test\java\api\payload\PostPayload.class
+test\java\api\tests\PostTests.class
