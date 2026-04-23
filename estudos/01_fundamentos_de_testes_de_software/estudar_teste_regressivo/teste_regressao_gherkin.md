@@ -58,6 +58,6 @@ Linguagem clara
 Foco no comportamento estável
 Fácil leitura por QA, Dev, PO
 
-
+----------------------------------------------------
 
 
