@@ -1,5 +1,7 @@
+api\tests\PostTests.class
+api\config\EnvironmentConfig.class
+api\config\RestConfig.class
 api\tests\regression\PostRegressionTest.class
-test\java\api\service\PostService.class
-test\java\api\base\BaseTest.class
-test\java\api\payload\PostPayload.class
-test\java\api\tests\PostTests.class
+api\service\PostService.class
+api\base\BaseTest.class
+api\payload\PostPayload.class
